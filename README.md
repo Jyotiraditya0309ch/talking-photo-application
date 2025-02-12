@@ -6,7 +6,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/your-username/talking-photo-app.git
+git clone https://github.com/KANIKISINDHU/talking-photo-app.git
 cd talking-photo-app
 Install the required dependencies:
 
